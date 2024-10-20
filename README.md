@@ -1,10 +1,10 @@
-# FinAI: AI-Powered Personal Finance Management
+# FinMate: Personal Finance Management
 
-**FinAI** is an AI-driven personal finance application designed to help users track their expenses, manage their budget, and get smart savings suggestions.
+**FinMate** is a personal finance application designed to help users track their expenses, manage their budget, and achieve savings goals.
 
 ## Features
 - **Expense Tracking**: Easily add and categorize your daily expenses.
-- **AI-Powered Insights**: Receive personalized savings tips based on your spending patterns.
+- **Saving Goals**: Set personal savings goals and monitor progress.
 - **Budget Management**: Set budgets for different categories and track your progress.
 - **Notifications**: Get reminders when you approach or exceed your budget limits.
 
@@ -13,11 +13,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/zgokceaynaci/FinAI.git
+    git clone https://github.com/zgokceaynaci/FinMate.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd FinAI
+    cd FinMate
     ```
 3. Install dependencies:
     ```bash
@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 ## Tech Stack
 - **Flutter** for the front-end.
 - **Firebase** for real-time database and authentication.
-- **AI/ML Models** powered by [TensorFlow Lite](https://www.tensorflow.org/lite).
+- **SQLite** for offline data storage of expenses and budgets.
 
 ## Contributing
 We welcome contributions! Please fork this repository and submit a pull request with any improvements.
