@@ -1,23 +1,32 @@
-# FinMate: Personal Finance Management
+# RoomBalance Home Management
 
-**FinMate** is a personal finance application designed to help users track their expenses, manage their budget, and achieve savings goals.
+RoomBalance Home Management is a mobile application designed to simplify housemate household management. It helps users track expenses, manage shared tasks, vote on events, and book shared spaces seamlessly.
+
+---
 
 ## Features
-- **Expense Tracking**: Easily add and categorize your daily expenses.
-- **Saving Goals**: Set personal savings goals and monitor progress.
+
+- **Expense Tracking:** Log and categorize shared household expenses to maintain financial transparency.  
+- **Task Management:** Assign and track household tasks to ensure fair participation.  
+- **Event Voting:** Suggest and vote on group activities such as movie nights or dinners.  
+- **Room Booking:** Reserve shared spaces (e.g., study rooms or living rooms) to avoid conflicts.
 - **Budget Management**: Set budgets for different categories and track your progress.
-- **Notifications**: Get reminders when you approach or exceed your budget limits.
+- **Notifications**: Get reminders when approaching or exceeding your budget limits.
+
+
+---
 
 ## Installation
-To run this project locally, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/zgokceaynaci/FinMate.git
-    ```
+To run this project locally, follow these steps:  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/zgokceaynaci/RoomBalance.git
+
 2. Navigate to the project directory:
     ```bash
-    cd FinMate
+    cd RoomBalance
     ```
 3. Install dependencies:
     ```bash
